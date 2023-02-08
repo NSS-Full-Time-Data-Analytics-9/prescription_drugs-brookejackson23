@@ -1,4 +1,6 @@
-1. --a. Which prescriber had the highest total number of claims (totaled over all drugs)? Report the npi and the total number of claims.
+--still going over to make sure correct--
+
+--1. a. Which prescriber had the highest total number of claims (totaled over all drugs)? Report the npi and the total number of claims.
 
 SELECT total_claim_count, nppes_provider_last_org_name, npi
 FROM prescription
